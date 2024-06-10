@@ -34,8 +34,8 @@ To run this notebook, you will need:
 1. Clone the repository or download the notebook.
 
    ```bash
-   git clone https://github.com/yourusername/spotify-data-fetcher.git
-   cd spotify-data-fetcher
+   git clone https://github.com/yourusername/spotify-data-script.git
+   cd sspotify-data-script
    ```
 
 2. Install the required Python packages using pip:
